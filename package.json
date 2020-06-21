@@ -12,10 +12,7 @@
     "test": "npm run eslint-check && eslint .",
     "todo:postpublish": "npm publish --ignore-scripts --@github:registry='https://npm.pkg.github.com'"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bullhorn/standards-code-style"
-  },
+  "repository": "bullhorn/eslint-plugin-bullhorn",
   "keywords": [
     "eslint",
     "eslintconfig",
